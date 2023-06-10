@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(109, 111, 92);
+    padding-left: 30%;
+    padding-top: 5%;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(222, 204, 7);
+    padding-left: 10%;
+}
+
+.infos {
+    padding-left: 17%;
+}
+
+h2 {
+    color: rgb(231, 213, 15);
+}
